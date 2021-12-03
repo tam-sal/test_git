@@ -1,2 +1,4 @@
 "Hello World!"
-"adding a new line"
+
+"Removed the second line and added a third one,
+deletion and addition should show in the git diff"
