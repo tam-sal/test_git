@@ -4,3 +4,5 @@
 deletion and addition should show in the git diff"
 
 Agregar line nueva en github para el pull
+
+Nueva linea para el command amend luego
